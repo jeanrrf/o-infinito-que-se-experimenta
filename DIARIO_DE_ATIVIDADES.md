@@ -58,6 +58,7 @@ Estrutura atual:
 - **Capitão:** idealizador e autoridade autoral humana do projeto.
 - **ChatGPT:** Subcomandante; responsável por organização, modelagem, investigação e desenvolvimento quando atuando nessas funções.
 - **Grok:** contribuidor e segunda opinião independente.
+- **GLM 5.2:** contribuidor externo; suas contribuições devem ser preservadas e avaliadas independentemente.
 - **Demais participantes:** contribuidores, identificados individualmente quando possível.
 
 A atribuição deve descrever a contribuição efetivamente realizada, sem atribuir a um participante trabalho que não executou.
@@ -198,5 +199,27 @@ Foi adicionada uma análise crítica independente sobre a força real de 1 Samue
 **Arquivos afetados:** `04_PESQUISA/03_1SM23_ANALISE_FILOLOGICA_E_TEOLOGICA.md`, `DIARIO_DE_ATIVIDADES.md`  
 **Resumo:**  
 Foi registrada uma análise detalhada do texto hebraico massorético e da Septuaginta de 1 Samuel 23:11–13, incluindo análise filológica dos verbos e da estrutura interrogativa, discussão da linguagem contrafactual, tabela de passagens paralelas, interpretações judaicas (Rashi, Talmude) e patrísticas, posições modernas (Molinismo, Teísmo Aberto, Teísmo Clássico, Predestinação), objeções e contra-argumentos, e conclusão de que o texto tende a apoiar P8 com alto grau de confiança na interpretação textual e moderado na aplicação teológica.
+
+---
+
+## 2026-08-10 | Registro da Pesquisa 03 — GLM 5.2
+
+**Atividade:** Contribuição analítica sobre modelos teológicos, análise lexical e corpus expandido.  
+**Contribuidor:** GLM 5.2  
+**Solicitado / mediado por:** Capitão  
+**Registrado por:** ChatGPT  
+**Tipo:** Pesquisa / Filologia / Filosofia da religião / Metodologia  
+**Arquivos afetados:** `04_PESQUISA/03_MODELOS_LEXICAL_E_CORPUS.md`, `DIARIO_DE_ATIVIDADES.md`  
+**Resumo:**  
+Foi incorporada ao repositório a contribuição recebida do GLM 5.2, contendo análise lexical e gramatical de 1 Samuel 23, Atos 2:23 e Números 23:19/LXX; ampliação do corpus com Salmo 139:16, Isaías 46:9–11, Provérbios 16:33, Mateus 11:20–24, 1 Samuel 15 e Gênesis 6:5–7; refinamento da taxonomia de modelos teológicos; formalização preliminar das três vias possíveis para P8; localização do *Grounding Objection* como ponto crítico para distinguir a hipótese do Molinismo; e contextualização inicial do Segundo Templo com Qumran e 1 Enoque.
+
+**Resultado registrado:**  
+A contribuição mantém P8 como **🟡 compatível, mas não demonstrada**. O principal avanço metodológico foi transformar a intuição “novidade não implica ignorância” em um problema explícito sobre futuros contingentes, bivalência, contrafactuais e modelos de presciência.
+
+**Ponto crítico identificado:**  
+A hipótese precisa decidir qual via de P8 será formalmente testada — abertura forte, atemporalidade ou uma terceira via ainda a formalizar. O Salmo 139:16 foi identificado como texto adversarial prioritário.
+
+**Observação de auditoria:**  
+A contribuição foi arquivada como material analítico de um participante externo. Nenhum de seus argumentos foi convertido automaticamente em conclusão oficial do projeto.
 
 ---
