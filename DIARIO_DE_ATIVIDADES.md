@@ -211,7 +211,7 @@ Foi registrada uma análise detalhada do texto hebraico massorético e da Septua
 **Tipo:** Pesquisa / Filologia / Filosofia da religião / Metodologia  
 **Arquivos afetados:** `04_PESQUISA/03_MODELOS_LEXICAL_E_CORPUS.md`, `DIARIO_DE_ATIVIDADES.md`  
 **Resumo:**  
-Foi incorporada ao repositório a contribuição recebida do GLM 5.2, contendo análise lexical e gramatical de 1 Samuel 23, Atos 2:23 e Números 23:19/LXX; ampliação do corpus com Salmo 139:16, Isaías 46:9–11, Provérbios 16:33, Mateus 11:20–24, 1 Samuel 15 e Gênesis 6:5–7; refinamento da taxonomia de modelos teológicos; formalização preliminar das três vias possíveis para P8; localização do *Grounding Objection* como ponto crítico para distinguir a hipótese do Molinismo; e contextualização inicial do Segundo Templo com Qumran e 1 Enoque.
+Foi incorporada ao repositório a contribuição recebida do GLM 5.2, contendo análise lexical e gramatical de 1 Samuel 23, Atos 2:23 e Números 23:19/LXX; ampliação do corpus com Salmo 139:16, Isaías 46:9–11, Provérbios 16:33, Mateus 11:20–24, 1 Samuel 15 e Gênesis 6:5–7; refinamento da taxonomia de modelos teológicos; formalização preliminar das três vias para P8; localização do *Grounding Objection* como ponto crítico para distinguir a hipótese do Molinismo; e contextualização inicial do Segundo Templo com Qumran e 1 Enoque.
 
 **Resultado registrado:**  
 A contribuição mantém P8 como **🟡 compatível, mas não demonstrada**. O principal avanço metodológico foi transformar a intuição “novidade não implica ignorância” em um problema explícito sobre futuros contingentes, bivalência, contrafactuais e modelos de presciência.
@@ -221,5 +221,25 @@ A hipótese precisa decidir qual via de P8 será formalmente testada — abertur
 
 **Observação de auditoria:**  
 A contribuição foi arquivada como material analítico de um participante externo. Nenhum de seus argumentos foi convertido automaticamente em conclusão oficial do projeto.
+
+---
+
+## 2026-08-09 | 20:52 -03
+
+**Atividade:** Contribuição independente do Grok no Experimento do Futuro (I-001)  
+**Contribuidor:** Grok  
+**Tipo:** Análise adversarial / Investigação formal  
+**Arquivos afetados:** `02_INVESTIGACOES/I001_CONTRIBUICAO_GROK_EXPERIMENTO_DO_FUTURO.md`, `DIARIO_DE_ATIVIDADES.md`  
+**Resumo:**  
+Foi registrada a análise completa e independente do Grok sobre a pergunta-mãe do Experimento do Futuro. A contribuição seguiu o formato obrigatório de 14 seções. Principais conclusões:
+
+- A pergunta-mãe precisa ser reformulada (mistura níveis distintos de “fato determinado”).
+- H3 (Terceira Via) foi classificada como **🟠 VULNERÁVEL**.
+- Principal vulnerabilidade: H3 ainda não demonstrou ser claramente distinta do Teísmo Aberto nem do Molinismo.
+- A distinção “novidade ≠ ignorância” permanece, neste estágio, mais linguística do que metafisicamente resolvida.
+- Foi proposta uma reformulação mais rigorosa, que se aproxima de H2.
+- A hipótese sobrevive como programa de investigação, não como solução estabilizada.
+
+**Veredito registrado:** 🟠 VULNERÁVEL
 
 ---
