@@ -120,3 +120,28 @@ Foi estabelecida a regra de que, quando o Capitão solicitar explicitamente o re
 > **Primeiro preservar o que aconteceu. Depois interpretar o que aconteceu.**
 
 ---
+
+## 2026-08-09 | Primeira investigação formal: presciência × livre-arbítrio
+
+**Atividade:** Investigação inicial da relação entre presciência divina, determinação e liberdade humana.  
+**Contribuidor:** ChatGPT  
+**Tipo:** Pesquisa / Bíblia / Filosofia  
+**Arquivos afetados:** `04_PESQUISA/01_PRESCIENCIA_E_LIVRE_ARBITRIO.md`  
+**Resumo:**  
+Foi iniciada a primeira investigação formal da hipótese, concentrada nas premissas P6 e P8. Foram confrontados textos bíblicos sobre propósito/presciência divina e textos nos quais arrependimento, intercessão ou mudança humana alteram resultados anunciados. Foram examinados, entre outros, 1 Samuel 23:11–13, Jeremias 18:7–10, Jonas 3:10, Êxodo 32:14, Gênesis 22:12, Isaías 38:1, 2 Reis 20:1, Atos 2:23 e Mateus 26:24. Também foi consultada a Stanford Encyclopedia of Philosophy sobre o problema da fatalidade teológica.
+
+**Resultado provisório:**
+
+A investigação encontrou uma tensão textual legítima: a Bíblia apresenta simultaneamente linguagem forte sobre propósito/presciência divina e narrativas em que ações humanas alteram resultados anunciados. Isso não prova futuro aberto nem a hipótese da Automanifestação do Infinito, mas impede uma conclusão simplista de que todo conhecimento divino implica automaticamente determinação mecânica de cada ação.
+
+**Achado considerado mais promissor:** `1 Samuel 23:11–13`, pela estrutura em que Davi pergunta o que ocorreria sob determinadas condições, recebe respostas e então altera sua posição, evitando o cenário previsto.  
+**Achado considerado mais desafiador:** `Atos 2:23`, pela associação explícita entre plano determinado e presciência de Deus na morte de Jesus.
+
+**Estado das premissas:**
+
+- **P6:** 🟡 compatível, mas inconclusiva.
+- **P8:** 🟡 compatível, mas inconclusiva.
+
+**Fontes principais:** Bible Gateway para os textos bíblicos consultados; Stanford Encyclopedia of Philosophy para o problema filosófico da presciência e liberdade.
+
+**Próxima etapa:** investigação dos textos originais hebraicos e gregos, comparação entre Texto Massorético e Septuaginta quando relevante, contexto do Segundo Templo e interpretações judaicas antigas e cristãs primitivas.
