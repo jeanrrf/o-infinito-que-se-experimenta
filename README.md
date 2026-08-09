@@ -21,6 +21,7 @@ Não procuraremos apenas confirmação. O projeto inclui deliberadamente uma eta
 
 ## Estrutura
 
+- `DIARIO_DE_ATIVIDADES.md` — registro cronológico de todas as contribuições e atividades (data, hora, contribuidor e resumo).
 - `00_MANIFESTO.md` — a hipótese em sua forma atual.
 - `01_HIPOTESE.md` — formulação técnica e princípios fundamentais.
 - `02_ORIGEM_DA_IDEIA.md` — como a hipótese surgiu nesta conversa.
