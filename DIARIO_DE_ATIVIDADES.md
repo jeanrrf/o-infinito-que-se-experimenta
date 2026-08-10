@@ -243,3 +243,37 @@ Foi registrada a análise completa e independente do Grok sobre a pergunta-mãe 
 **Veredito registrado:** 🟠 VULNERÁVEL
 
 ---
+
+## 2026-08-10 | Consolidação da nova pergunta-mãe e do eixo de investigação
+
+**Atividade:** Redirecionamento metodológico do projeto após as auditorias de Grok, GLM 5.2 e Nemotron e retomada do núcleo da conversa original entre Capitão e ChatGPT.  
+**Contribuidor:** Capitão + ChatGPT  
+**Tipo:** Decisão metodológica / Arquitetura conceitual / Governança da pesquisa  
+**Arquivos afetados:** `DIRECIONAMENTO_ATUAL.md`, `DIARIO_DE_ATIVIDADES.md`  
+**Resumo:**  
+Foi decidido que o projeto não deve permanecer em um ciclo de repetição em torno da pergunta “Deus sabe ou não sabe exatamente qual será cada escolha?”. Essa pergunta permanece como problema derivado, mas deixa de ser a pergunta-mãe.
+
+A investigação passa a partir do fundamento conceitual que emergiu na conversa original: se Deus for concebido como **Totalidade infinita**, sua infinitude pode ser investigada não apenas como conhecimento ou armazenamento de todas as possibilidades, mas como **capacidade generativa ilimitada de manifestação e produção de novas configurações**.
+
+A nova pergunta-mãe registrada é:
+
+> **É logicamente possível que uma Totalidade infinita se manifeste em perspectivas genuinamente criadoras sem deixar de ser Totalidade?**
+
+Foi consolidado o conceito provisório de **Infinitude Generativa** e estabelecido que o livre-arbítrio será investigado como possível capacidade criadora manifestada pela própria Totalidade através de perspectivas finitas. Também foi reforçada a distinção **soberania ≠ controle microcausal**.
+
+A decisão não encerra as objeções anteriores nem declara a hipótese verdadeira. Ela define o próximo nível de investigação para impedir repetição improdutiva.
+
+**Novos alvos prioritários:**
+
+1. Formalizar Infinitude Generativa.
+2. Definir ontologicamente Manifestação.
+3. Resolver o princípio de Individuação/Perspectiva.
+4. Testar se liberdade genuína pode existir sem divisão da unidade fundamental.
+5. Formalizar P8 como consequência do modelo, e não como slogan independente.
+6. Comparar o resultado com Molinismo, Teísmo Aberto, Teísmo Clássico e Teologia de Processo.
+
+**Regra metodológica registrada:** uma objeção já respondida só deve reabrir uma questão se trouxer premissa nova, contraexemplo novo ou demonstração de erro na resposta anterior.
+
+**Documento de direção:** `DIRECIONAMENTO_ATUAL.md`
+
+**Estado:** decisão metodológica vigente; hipótese continua **não demonstrada, não refutada e filosoficamente investigável**.
